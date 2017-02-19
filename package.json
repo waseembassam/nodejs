@@ -1,0 +1,20 @@
+{
+  "name": "waseemay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wase.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1" ,
+     "start": "node wase.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waseembassam/nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waseembassam/nodejs/issues"
+  },
+  "homepage": "https://github.com/waseembassam/nodejs#readme"
+}
